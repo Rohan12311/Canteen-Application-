@@ -73,7 +73,7 @@ const App = () => {
     type: 'lunch'
    },
    {
-    name:'Dinner',
+    name:'D``inner',
     type: 'dinner'
    },
   ]
